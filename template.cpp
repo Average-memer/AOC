@@ -7,6 +7,6 @@
 
 int main(int argc, char const *argv[])
 {
-	std::cout << "Merry Crisis"
+	std::cout << "Merry Crisis";
 	return 0;
 }
